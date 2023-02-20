@@ -47,7 +47,7 @@ export default {
     }
 
     li:hover {
-        background-color: rgba(0, 0, 0, 0.05);
+        background-color: rgb(168, 168, 168);
     }
 
     .options-container {
