@@ -54,7 +54,7 @@ export default {
             if ( selectedId === this.pokemon.id ) {
                 this.message = `¡Correcto es ${this.capitalized(this.pokemon.name)}!`
             } else {
-                this.message = `Opps, pokémon era ${this.capitalized(this.pokemon.name)}`
+                this.message = `Opps, el pokémon era ${this.capitalized(this.pokemon.name)}`
             }
         },
         newGame () {
